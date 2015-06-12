@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{05F95F2C-15A2-49AA-ACF4-0357B582BBB5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FS.Utils.Web</RootNamespace>
+    <AssemblyName>Farseer.Net.Utils.Web</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Component\Mvc\Routing\DomainData.cs" />
+    <Compile Include="Component\Mvc\Routing\DomainRoute.cs" />
+    <Compile Include="Component\Mvc\Routing\LinkExtensions.cs" />
+    <Compile Include="Configs\WebConfigs.cs" />
+    <Compile Include="Configs\WebRewriterConfigs.cs" />
+    <Compile Include="Configs\WebSystemConfigs.cs" />
+    <Compile Include="Extends\CheckBoxListExtend.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Extends\DropDownList.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Extends\EnumExtend.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Extends\IEnumerableExtend.cs" />
+    <Compile Include="Extends\IReqExtend.cs" />
+    <Compile Include="Extends\ModelExtend.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Extends\RepeaterExtend.cs" />
+    <Compile Include="Extends\SetExtend.cs" />
+    <Compile Include="Extends\TypeExtend.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Common\Cookies.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\Excel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\Htmls.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Component\HttpClient.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Component\CDN.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Component\UrlRewriter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\Images.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\IpAdress.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\MvcReq.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Component\Open\QQWebOpen.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\PageSplit.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Page\BaseController.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Page\BaseControls.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Page\BaseHandler.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Page\BaseMasterPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Page\BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\Req.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\ResponseFile.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Component\JavaScript.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Component\LhgDialog.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\Sessions.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\SpeedTest.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Component\Terminator.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\UpLoadFile.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Component\VeriCode.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\Web.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\WebCache.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UI\WebControls\Repeater.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Farseer.Net.Utils\Farseer.Net.Utils.csproj">
+      <Project>{9e86e93e-f4a9-4b48-bdd8-2dc9ec4568f4}</Project>
+      <Name>Farseer.Net.Utils</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Farseer.Net\Farseer.Net.csproj">
+      <Project>{4f393e31-dfcd-434a-a350-53d635a99317}</Project>
+      <Name>Farseer.Net</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
