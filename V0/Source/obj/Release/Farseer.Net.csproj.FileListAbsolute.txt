@@ -1,0 +1,10 @@
+E:\公司\Farseer.Net\Framework\V0.2\Source\bin\Release\Farseer.Net.dll
+E:\公司\Farseer.Net\Framework\V0.2\Source\bin\Release\Farseer.Net.pdb
+E:\公司\Farseer.Net\Framework\V0.2\Source\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\公司\Farseer.Net\Framework\V0.2\Source\bin\Release\System.Web.Mvc.dll
+E:\公司\Farseer.Net\Framework\V0.2\Source\bin\Release\System.Web.Mvc.xml
+E:\公司\Farseer.Net\Framework\V0.2\Source\obj\Release\Farseer.Net.csprojResolveAssemblyReference.cache
+E:\公司\Farseer.Net\Framework\V0.2\Source\obj\Release\FS.Utils.Form.DynamicHtml.resources
+E:\公司\Farseer.Net\Framework\V0.2\Source\obj\Release\Farseer.Net.csproj.GenerateResource.Cache
+E:\公司\Farseer.Net\Framework\V0.2\Source\obj\Release\Farseer.Net.dll
+E:\公司\Farseer.Net\Framework\V0.2\Source\obj\Release\Farseer.Net.pdb

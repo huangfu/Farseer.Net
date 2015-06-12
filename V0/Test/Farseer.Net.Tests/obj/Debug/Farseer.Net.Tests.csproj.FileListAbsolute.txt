@@ -1,0 +1,13 @@
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\bin\Debug\Farseer.Net.Tests.dll
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\bin\Debug\Farseer.Net.Tests.pdb
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\bin\Debug\Farseer.Net.dll
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\bin\Debug\FS.Entity.dll
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\bin\Debug\FS.Model.dll
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\bin\Debug\System.Web.Mvc.dll
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\bin\Debug\FS.Entity.pdb
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\bin\Debug\FS.Model.pdb
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\bin\Debug\Farseer.Net.pdb
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\bin\Debug\System.Web.Mvc.xml
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\obj\Debug\Farseer.Net.Tests.csprojResolveAssemblyReference.cache
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\obj\Debug\Farseer.Net.Tests.dll
+E:\公司\Farseer.Net\Framework\V0.2\Test\Farseer.Net.Tests\obj\Debug\Farseer.Net.Tests.pdb

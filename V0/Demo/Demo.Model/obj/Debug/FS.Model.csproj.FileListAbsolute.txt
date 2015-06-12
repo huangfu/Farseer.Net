@@ -1,0 +1,11 @@
+E:\公司\Farseer.Net\Framework\V0.2\Demo\Demo.Model\bin\Debug\FS.Model.dll
+E:\公司\Farseer.Net\Framework\V0.2\Demo\Demo.Model\bin\Debug\FS.Model.pdb
+E:\公司\Farseer.Net\Framework\V0.2\Demo\Demo.Model\bin\Debug\Farseer.Net.dll
+E:\公司\Farseer.Net\Framework\V0.2\Demo\Demo.Model\bin\Debug\FS.Entity.dll
+E:\公司\Farseer.Net\Framework\V0.2\Demo\Demo.Model\bin\Debug\System.Web.Mvc.dll
+E:\公司\Farseer.Net\Framework\V0.2\Demo\Demo.Model\bin\Debug\Farseer.Net.pdb
+E:\公司\Farseer.Net\Framework\V0.2\Demo\Demo.Model\bin\Debug\FS.Entity.pdb
+E:\公司\Farseer.Net\Framework\V0.2\Demo\Demo.Model\bin\Debug\System.Web.Mvc.xml
+E:\公司\Farseer.Net\Framework\V0.2\Demo\Demo.Model\obj\Debug\FS.Model.csprojResolveAssemblyReference.cache
+E:\公司\Farseer.Net\Framework\V0.2\Demo\Demo.Model\obj\Debug\FS.Model.dll
+E:\公司\Farseer.Net\Framework\V0.2\Demo\Demo.Model\obj\Debug\FS.Model.pdb
